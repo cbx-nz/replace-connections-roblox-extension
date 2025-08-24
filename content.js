@@ -11,7 +11,11 @@
                 'Connections': 'Friends',
                 'connections': 'friends',
                 'CONNECTION': 'FRIEND',
-                'Connection': 'Friend'
+                'Connection': 'Friend',
+                'Connect': 'Add Friend',
+                'connect': 'Add Friend',
+                'Connected': 'Added Friend',
+                'connected': 'Added Friend'
             };
             
             let modified = false;
