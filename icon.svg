@@ -1,0 +1,8 @@
+<!-- Simple SVG icon that can be converted to PNG -->
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="20" fill="#00A2FF"/>
+  <circle cx="45" cy="45" r="15" fill="white"/>
+  <circle cx="83" cy="45" r="15" fill="white"/>
+  <path d="M35 75 Q64 95 93 75" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="64" y="110" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">FRIENDS</text>
+</svg>
