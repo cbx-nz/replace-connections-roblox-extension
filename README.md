@@ -8,7 +8,7 @@ A browser extension that replaces "connections" with "friends" on the Roblox web
 - Works on dynamically loaded content
 - Replaces text in both content and attributes (placeholders, titles, etc.)
 - Supports different capitalizations:
-  - 'Connections': 'Friends',
+  -              'Connections': 'Friends',
   -              'connections': 'friends',
   -              'CONNECTION': 'FRIEND',
   -              'Connection': 'Friend',
